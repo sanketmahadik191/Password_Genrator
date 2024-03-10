@@ -1,6 +1,6 @@
-{ 
-  "homepage": "https:sanketmahadik191/Password_Genrator",
-  "name": "Password Genrator",
+{
+  "homepage":"https:sanketmahadik191./Password_Genrator",
+  "name": "geekfood",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
